@@ -19,7 +19,7 @@ Whether you're moving to a new city for work or college, this app helps you find
 
 ## 📸 A Quick Glimpse
 
-> _“Here's how it looks in action!”_
+> _Here's how it looks in action!_
 
 | City Search | Flat Listings | Flat Profile |
 |-------------|----------------|------------------|
